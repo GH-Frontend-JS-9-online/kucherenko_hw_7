@@ -3,7 +3,6 @@
 
 a. **Conditions**
 ------------------
-***
 ### **I. Challenge**
 1. URL: https://edabit.com/challenge/at7jF9Y7SmPGyD92u
 2. ![Solution:](https://www.dropbox.com/s/33dq879rcav6emm/condition1.png?dl=0)
@@ -27,7 +26,6 @@ a. **Conditions**
 
 b. **Arrays**
 -----------------
-***
 ### **I. Challenge**
 1. URL: https://edabit.com/challenge/h7LTMAFeNz79rXB2Y
 2. Solution: https://www.dropbox.com/s/4kqvdxpah7s4cu2/Array1.png?dl=0
