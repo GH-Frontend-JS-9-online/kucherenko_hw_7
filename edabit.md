@@ -6,7 +6,7 @@ a. **Conditions**
 ***
 ### **I. Challenge**
 1. URL: https://edabit.com/challenge/at7jF9Y7SmPGyD92u
-2. Solution: https://www.dropbox.com/s/33dq879rcav6emm/condition1.png?dl=0
+2. ![Solution:](https://www.dropbox.com/s/33dq879rcav6emm/condition1.png?dl=0)
 
 ### **II. Challenge**
 1. URL: https://edabit.com/challenge/3LpBLgNRyaHMvNb4j
