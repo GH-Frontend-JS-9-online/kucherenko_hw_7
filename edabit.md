@@ -8,11 +8,11 @@ a. **Conditions**
 2. Solution: https://www.dropbox.com/s/33dq879rcav6emm/condition1.png?dl=0
 
 #### II. Challenge
-1. URL: https://edabit.com/challenge/3LpBLgNRyaHMvNb4j
-2. Solution: https://www.dropbox.com/s/gf2ezbbvqesavga/condition2.png?dl=
+1. URL: https://edabit.com/challenge/nQx5XHtWurbGrFJww
+2. Solution: https://www.dropbox.com/s/gf2ezbbvqesavga/condition2.png?dl=0
 
 #### III. Challenge
-1. URL: https://edabit.com/challenge/NAQhEoxbofPidLxm9
+1. URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
 2. Solution: https://www.dropbox.com/s/7maduxmuatlw11m/condition3.png?dl=0
 
 #### IV. Challenge
@@ -20,7 +20,7 @@ a. **Conditions**
 2. Solution: https://www.dropbox.com/s/t9b019nfqp4limn/condition4.png?dl=0
 
 #### V. Challenge
-1. URL: https://edabit.com/challenge/nhXofMMyrowMyr9Nv
+1. URL: https://edabit.com/challenge/kLa2w7m4h849k8rmW
 2. Solution: https://www.dropbox.com/s/unxhc0ez0bivs18/condition5.png?dl=0
 ***
 
@@ -35,16 +35,16 @@ b. **Arrays**
 2. Solution: https://www.dropbox.com/s/o9wew4jf3f1q5q8/Array2.png?dl=0
 
 #### III. Challenge
-1. URL: https://edabit.com/challenge/3CaszbdZYGN4otQD8
-2. Solution: https://www.dropbox.com/s/ewnpr10rlh1c9b5/Array3.png?dl=0
+1. URL: https://edabit.com/challenge/R3AYf3eTdATXTQTdZ
+2. Solution: https://www.dropbox.com/s/90a6ektimz3cyqd/Array3.png?dl=0
 
 #### IV. Challenge
-1. URL: https://edabit.com/challenge/6AnQqiEjkJdZrWhPS
+1. URL: https://edabit.com/challenge/ve7mQnJsjtFep97fm
 2. Solution: https://www.dropbox.com/s/8u3y26ivcp1rrny/Array4.png?dl=0
 
 #### V. Challenge
-1. URL: https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk
-2. Solution: https://www.dropbox.com/s/tqkxqqst07c7suu/Array5.png?dl=0
+1. URL: https://edabit.com/challenge/LMhRTq3hccz2D9Lax
+2. Solution: https://www.dropbox.com/s/asaynuwglfgb3lu/Array5.png?dl=0
 ***
 
 c. **Loops**
@@ -54,16 +54,16 @@ c. **Loops**
 2. Solution: https://www.dropbox.com/s/rggbwtjwea397e0/Loops1.png?dl=0
 
 #### II. Challenge
-1. URL: https://edabit.com/challenge/R3AYf3eTdATXTQTdZ
-2. Solution: https://www.dropbox.com/s/90a6ektimz3cyqd/Loops2.png?dl=0
+1. URL: https://edabit.com/challenge/3cBe8af7yG2rzLEA2
+2. Solution: https://www.dropbox.com/s/tcg26y3v96gayjg/Loops2.png?dl=0
 
 #### III. Challenge
 1. URL: https://edabit.com/challenge/8bNad58igHWorsf6S
 2. Solution: https://www.dropbox.com/s/z0poewfghx29nd5/Loops3.png?dl=0
 
 #### IV. Challenge
-1. URL: https://edabit.com/challenge/RPBqWjEa7iyo9p54F
-2. Solution: https://www.dropbox.com/s/brv9pmy044x2nh8/Loops4.png?dl=0
+1. URL: https://edabit.com/challenge/ATbswTsEaMJb37Ez2
+2. Solution: https://www.dropbox.com/s/bmp4be7r9z6tm02/Loops5.png?dl=0
 
 #### V. Challenge
 1. URL: https://edabit.com/challenge/xr4Xf28xeSrc7XmCF
@@ -71,49 +71,49 @@ c. **Loops**
 ***
 
 d. **Functional Programming**
------------------
+------------------------------
 #### I. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/ENWFBL4jbTgLbSqwS
+2. Solution: https://www.dropbox.com/s/dmp9bhuy6nas6xt/Functional%20Programming1.png?dl=0
 
-#### II. Challenge
-1. URL: 
-2. Solution: 
+#### II. Challenge condition
+1. URL: https://edabit.com/challenge/cada8J3AWGRhwQhkk
+2. Solution: https://www.dropbox.com/s/8qmrdfoljhsl1t5/Functional%20Programming2.png?dl=0
 
 #### III. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/hzxN9bAebBPNqdQto
+2. Solution: https://www.dropbox.com/s/9zcpq1oup59o5xm/Functional%20Programming3.png?dl=0
 
 #### IV. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/tWgCG2PjN6FHq27S7
+2. Solution: https://www.dropbox.com/s/b6x7z6xt4wq62u1/Functional%20Programming4.png?dl=0
 
 #### V. Challenge
 1. URL: 
-2. Solution: 
+2. Solution:
 ***
 
 e. **Scope**
 -----------------
 #### I. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/JcRKAzSnnPdSPBKMK
+2. Solution: https://www.dropbox.com/s/e6rvul94csz2b12/Scope1.png?dl=0
 
 #### II. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/yyKv8f4FrZPDaJbDs
+2. Solution: https://www.dropbox.com/s/ggia16616bzclyn/Scope2.png?dl=0
 
 #### III. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/ejzLBYvAtAiKk9HnP
+2. Solution: https://www.dropbox.com/s/5d8jvmau6shrdf7/Scope3.png?dl=0
 
 #### IV. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/wTQpSEZPpPdyLtK9k
+2. Solution: https://www.dropbox.com/s/a0wqqtrvr6khu7l/Scope4.png?dl=0
 
 #### V. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/9tJ97HK3c4Koy3KsF
+2. Solution: https://www.dropbox.com/s/u6w1pr6yd2ksf7y/Scope5.png?dl=0
 ***
 
 f. **Objects**
