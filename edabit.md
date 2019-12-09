@@ -89,8 +89,8 @@ d. **Functional Programming**
 2. Solution: https://www.dropbox.com/s/b6x7z6xt4wq62u1/Functional%20Programming4.png?dl=0
 
 #### V. Challenge
-1. URL: 
-2. Solution:
+1. URL: https://edabit.com/challenge/4zCJaqJvEcAmqcb7y
+2. Solution: https://www.dropbox.com/s/wz5n4keynpxdfkg/Functional%20Programming5.png?dl=0
 ***
 
 e. **Scope**
@@ -142,8 +142,8 @@ f. **Objects**
 g. **Classes**
 -----------------
 #### I. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/Hgb38yhWGwJCMHbRQ
+2. Solution: https://www.dropbox.com/s/797cvtejve9mqv3/Classes1.png?dl=0
 
 #### II. Challenge
 1. URL: 
