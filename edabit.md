@@ -119,24 +119,24 @@ e. **Scope**
 f. **Objects**
 -----------------
 #### I. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
+2. Solution: https://www.dropbox.com/s/4sd26b54sl8vdmd/Objects1.png?dl=0
 
 #### II. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/83sWemMhpG6pScXKp
+2. Solution: https://www.dropbox.com/s/wo2yr97qz2mf3a6/Objects2.png?dl=0
 
 #### III. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
+2. Solution: https://www.dropbox.com/s/c2i0xkahs536u5v/Objects3.png?dl=0
 
 #### IV. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/4aaBNPnFMc3bzR7JR
+2. Solution: https://www.dropbox.com/s/wr3r9gelftk85zn/Objects4.png?dl=0
 
 #### V. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/vPmDvWoP2wj5KpWZi
+2. Solution: https://www.dropbox.com/s/5emlac4233ko6ll/Objects5.png?dl=0
 ***
 
 g. **Classes**
