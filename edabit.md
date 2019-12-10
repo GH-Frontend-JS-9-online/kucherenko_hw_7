@@ -76,7 +76,7 @@ d. **Functional Programming**
 1. URL: https://edabit.com/challenge/ENWFBL4jbTgLbSqwS
 2. Solution: https://www.dropbox.com/s/dmp9bhuy6nas6xt/Functional%20Programming1.png?dl=0
 
-#### II. Challenge condition
+#### II. Challenge
 1. URL: https://edabit.com/challenge/cada8J3AWGRhwQhkk
 2. Solution: https://www.dropbox.com/s/8qmrdfoljhsl1t5/Functional%20Programming2.png?dl=0
 
